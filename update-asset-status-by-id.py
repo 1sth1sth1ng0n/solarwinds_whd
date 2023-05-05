@@ -3,7 +3,7 @@ import json
 import os
 import sys
 
-''' manipulates asset status for solarwinds web help desk.
+''' manipulates asset status in solarwinds web help desk.
 '''
 
 # set env variables
